@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-react",
+  "name": "@honeybook/eslint-plugin-react",
   "version": "7.37.1",
   "author": "Yannick Croissant <yannick.croissant+npm@gmail.com>",
   "description": "React specific linting rules for ESLint",
